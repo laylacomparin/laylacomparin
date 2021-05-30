@@ -32,7 +32,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylacomparin&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=laylacomparin&theme=buefy"/></td>
+        <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylacomparin&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=laylacomparin&theme=buefy"/></td>
     </tr>  
 </center>  
