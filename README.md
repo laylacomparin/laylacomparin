@@ -7,8 +7,5 @@
 
 <br>
 <center>
-  <table>
-    <tr>
         <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylacomparin&hide=html&layout=compact" /></td>
-    </tr>  
 </center>  
